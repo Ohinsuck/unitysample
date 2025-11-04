@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2d6017e6f4bf684bb1a4398dff4232e, type: 3}
+  m_Name: DGRN_Card
+  m_EditorClassIdentifier: 
+  cardName: "\uC6A9\uBB38 \uC77C\uB3C4"
+  health: 0
+  damage: 0
+  AP: 1
+  Faith: 0
+  effect: "\uB2E8\uC77C 12 \uD53C\uD574"
+  dragonGauge: 0
